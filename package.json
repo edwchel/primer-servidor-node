@@ -12,6 +12,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "multer": "^1.4.3",
+    "pdf-to-base64": "^1.0.3",
+    "pdfmake": "^0.2.2",
     "sharp": "^0.29.1"
   },
   "devDependencies": {
