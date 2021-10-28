@@ -1,0 +1,51 @@
+{
+    "Orden_De_Trabajo": "",
+    "Tipo_Reporte": "",
+    "Folio_Reporte": "",
+    "Cliente": "",
+    "Fecha_Reporte": "",
+    "Valvula": {
+        "Valvula": "",
+        "Tag_Valvula": "",
+        "Tipo_Valvula": "",
+        "Direccion": "",
+        "Ubicacion": "",        
+        "Tipo_Direccion": ""  
+    },
+    "Grafico": "",
+    "cValor1": 1,
+    "cValor2": 2,
+    "Unidad": "",
+    "Equipo_Patron": [
+        {
+            "Equipo_Patron": "",
+            "Marca": "",
+            "Modelo": "",
+            "Apreciacion": "",
+            "Rango": "",
+            "Numero_Serie": "",
+            "Certificado": "",
+            "Fecha_Vencimiento": ""
+        }
+    ],
+    "Usuario_Instrumentista": {
+        "Usuario": "",
+        "Puesto": "",
+        "Cuadrilla": "",
+        "Correo": "",
+        "FirmaBase64": ""
+        
+    },
+    "Usuario_Supervisor": {
+        "Usuario": "",
+        "Puesto": ""
+    },
+    "Evidencia": [
+        {
+            "Orden": 1,
+            "Tipo_Imagen": 1,
+            "imgBase64": ""
+        }
+    ],
+    "ID_Captura_Reporte": ""
+}
